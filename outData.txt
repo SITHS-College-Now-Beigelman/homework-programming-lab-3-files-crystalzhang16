@@ -1,0 +1,9 @@
+Your starting balance is: 5000 dollars
+This transaction was a withdrawal and the balance is now: 4800
+This transaction was a withdrawal and the balance is now: 4000
+This transaction was a withdrawal and the balance is now: 3960
+This transaction was a deposit and the balance is now: 4050
+This transaction was a deposit and the balance is now: 4150
+This transaction was a deposit and the balance is now: 5150
+This transaction was a withdrawal and the balance is now: 5130
+Your balance at the end of the day is: 5130 dollars
